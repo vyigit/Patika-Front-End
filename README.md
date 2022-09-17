@@ -1,4 +1,3 @@
-# Patika-Front-End
-Başlangıç Seviye Frontend Web Development Patikası
+# İlk Web Sayfamızı Oluşturmak
 
-İlk Web Sayfamızı Oluşturmak
+Başlangıç Seviye Frontend Web Development Patikası
